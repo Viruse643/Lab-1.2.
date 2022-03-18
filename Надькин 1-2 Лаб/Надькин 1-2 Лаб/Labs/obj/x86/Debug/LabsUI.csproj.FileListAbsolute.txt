@@ -1,0 +1,17 @@
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\LabsUI.csprojResolveAssemblyReference.cache
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.MainForm.resources
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.Properties.Resources.resources
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\LabsUI.csproj.GenerateResource.Cache
+D:\Лабораторные работы по численным методам\Labs\Labs\bin\Debug\Labs.exe
+D:\Лабораторные работы по численным методам\Labs\Labs\bin\Debug\Labs.pdb
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.exe
+D:\Лабораторные работы по численным методам\Labs\Labs\obj\x86\Debug\Labs.pdb
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\bin\Debug\Labs.exe
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\bin\Debug\Labs.pdb
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\obj\x86\Debug\LabsUI.csproj.AssemblyReference.cache
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\obj\x86\Debug\Labs.MainForm.resources
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\obj\x86\Debug\Labs.Properties.Resources.resources
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\obj\x86\Debug\LabsUI.csproj.GenerateResource.cache
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\obj\x86\Debug\LabsUI.csproj.CoreCompileInputs.cache
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\obj\x86\Debug\Labs.exe
+C:\Users\sawab\Desktop\Надькин 1-2 Лаб\Надькин 1-2 Лаб\Labs\obj\x86\Debug\Labs.pdb
